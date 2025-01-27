@@ -15,11 +15,4 @@ A Python tool for cleaning, validating, and normalizing postal codes across all 
  
 ---
  
-## Installation
- 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/eu-postcode-cleaner.git
-   cd eu-postcode-cleaner
- 
 pip install pandas openpyxl
